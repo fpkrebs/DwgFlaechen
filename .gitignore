@@ -1,0 +1,16 @@
+# Build-Ausgaben
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+publish/
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
